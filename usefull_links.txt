@@ -14,4 +14,5 @@ https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec5
 		https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/
 		#Selective Search
 			http://cs.brown.edu/people/pfelzens/segment/
+				https://www.cis.upenn.edu/~jshi/GraphTutorial/
 			http://www.huppelen.nl/publications/selectiveSearchDraft.pdf
